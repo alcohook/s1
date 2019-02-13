@@ -13,12 +13,6 @@ background-color: #ffffff;
 border: 5px solid black;
 opacity: 0.6;
 }
-div.p2
-{
-margin: 5%;
-font-weight: bold;
-color: #000000;
-}
 .p
 {
 }
@@ -26,9 +20,8 @@ color: #000000;
 </head>
 <body>
 <div class="p1">
-<div class="p2">
 <p>This is the bike image</p>
 </div>
-</div>
+<p>hey there this is david</p>
 </body>
 </html> 
